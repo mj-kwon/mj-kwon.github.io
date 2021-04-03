@@ -10424,8 +10424,7 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: rgba(0, 0, 0, 0.075);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
 }
 section#contact .section-heading {
