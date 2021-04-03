@@ -10424,12 +10424,11 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: #fff;
   background-repeat: no-repeat;
   background-position: center;
 }
 section#contact .section-heading {
-  color: #fff;
+  color: #000;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
