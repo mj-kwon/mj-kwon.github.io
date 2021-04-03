@@ -10273,7 +10273,7 @@ header.masthead .masthead-heading {
   position: relative;
   float: right;
   width: 100%;
-  padding: 0 20px 0 100px;
+  padding: 0 10px 0 80px;
   text-align: left;
 }
 .timeline > li .timeline-panel:before {
